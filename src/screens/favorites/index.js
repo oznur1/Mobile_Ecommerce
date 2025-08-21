@@ -12,4 +12,3 @@ const FavoritesScreen  = () => {
 export default FavoritesScreen 
 
 
-const styles = StyleSheet.create({})

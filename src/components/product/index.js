@@ -11,4 +11,3 @@ const Product = () => {
 
 export default Product
 
-const styles = StyleSheet.create({})

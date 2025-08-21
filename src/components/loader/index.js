@@ -11,4 +11,3 @@ const Loader = () => {
 
 export default Loader
 
-const styles = StyleSheet.create({})

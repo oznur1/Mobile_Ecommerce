@@ -11,4 +11,3 @@ const Error = () => {
 
 export default Error
 
-const styles = StyleSheet.create({})
