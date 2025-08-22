@@ -8,7 +8,8 @@ import AppStyles from '../../ui/appStyles'
 
 const ProductsWrapper = () => {
 
-   const {products,loading,error} =useSelector((state)=>state.products)
+  const { products, loading, error } = useSelector(state => state.products);
+
    return (
     <View>
       {loading ? (
